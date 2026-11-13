@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# dataset and model files pulled or written by the notebooks
+cifar10/
+*.pt
